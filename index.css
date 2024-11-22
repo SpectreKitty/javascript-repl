@@ -1,0 +1,17 @@
+body {
+    background: url(images/dark-bg.jpg) no-repeat center center fixed;
+    background-size: cover;
+    color: lavender;
+    text-align: center;
+}
+
+.light-mode {
+    background: url(images/light-bg.jpg) no-repeat center center fixed;
+    background-size: cover;
+    color: black;
+}
+
+div {
+    display: inline-block;
+    padding: 30px;
+}
